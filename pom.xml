@@ -4,7 +4,7 @@
 
     <groupId>ch.hslu.swe18fs.g04</groupId>
     <artifactId>SWE-Project-FS18-G04</artifactId>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>1.0.3-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <name>SWE-Project-FS18-G04</name>
@@ -34,8 +34,18 @@
     <developers>
         <developer>
             <id>${developer.id}</id>
-            <name>Name Vorname</name>
-            <email>vorname.name@hslu.ch</email>
+            <name>Schafer David</name>
+            <email>david.schafer@stud.hslu.ch</email>
+            <organization>HSLU Informatik</organization>
+            <roles>
+                <role>Developer</role>
+            </roles>
+        </developer>
+        
+           <developer>
+            <id>${developer.id}</id>
+            <name>Inäbnit Pascal</name>
+            <email>pascal.inaebnit@stud.hslu.ch</email>
             <organization>HSLU Informatik</organization>
             <roles>
                 <role>Developer</role>
